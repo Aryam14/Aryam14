@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aryam14
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning C/C++, 
+- 🌱 I’m currently learning JAVA, developing a flutter based app and exploring ML, 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail: aryamjuneja@gmail.com
 
